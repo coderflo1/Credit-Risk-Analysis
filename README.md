@@ -9,7 +9,7 @@ I have demonstrated how to utilize Python packages (e.g. pandas, NumPy, Seaborn,
 
 I have also illustrated how to overcome challenges working on binary classification problems with an imbalanced dataset using the Synthetic Minority Oversampling Technique (SMOTE). SMOTE creates synthetic new samples from the existing ones among the minority class to balance the distribution of the classes.
 
-Class imbalance is common among industries where low occurrence of the minority class is typical, such as rare disease diagnosis, fraud detections, and system failure. If data augmentation is not performed on the imbalanced dataset prior to training the classifier, the result would be a high-accuracy low-recall model.
+Class imbalance is common among industries where low occurrence of the minority class is typical, such as rare disease diagnosis, fraud detections, and system failure. If data augmentation is not performed on the imbalanced dataset prior to training the classifier, the result is often a high-accuracy low-recall model.
 
 # Sections 
 
