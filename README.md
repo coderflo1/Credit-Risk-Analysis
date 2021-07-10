@@ -13,15 +13,15 @@ Class imbalance is common among industries where low occurrence of the minority 
 
 # Sections 
 
-**1.1	Descriptive analysis**
+**1.	Descriptive Analysis**
 - Cross tabulations are created to display the frequency and proportions of components by credit risk classifications, which highlight potential relationships between variables.
 - A variety of charts are generated to summarize information, accentuate key patterns from the dataset, and provide clear comparisons between subgroups.
 	
-**1.2	Cramer’s V**
+**2.	Cramer’s V**
 -  Data preparation with encoding categorical variables.
 -  Heatmap of Cramer’s V is created to illustrate the strength of association between the transformed categorical features and response variable. The results help identify features that are likely to be good predictors.
 
-**1.3	Logistic Regression and SMOTE**
+**3.	Logistic Regression and SMOTE**
 - Logistic regression model is created with predictor variables identified as having the strongest association with the response variable.
 - SMOTE is used to oversample the minority class in the training dataset for re-training the logistic regression model.
 - A comparison of model performance pre and post class adjustment is evaluated by accuracy and recall scores, and confusion matrix.
