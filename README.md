@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis
-Access the South German Credit Dataset at: http://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29
+Access the South German Credit dataset at: http://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29
 
 # Dataset Description 
 The dataset consists of a set of attributes that describe the people who have been classified as good or bad credit risk by a south German bank. There are 1000 entries in the dataset, among which 700 are classified as good credit risk and 300 as bad credit risk.
